@@ -1,10 +1,11 @@
-# Emma Watson - Portfolio Web
+# Esteba Castro - Portfolio Web
 
 Réplica del portafolio de desarrolladora Full Stack de Emma Watson.
 
 ## 🎨 Características Implementadas
 
 ### ✅ Diseño y Estilo
+
 - **Tema oscuro** con colores púrpura/violeta (#8b5cf6, #a78bfa)
 - **Gradientes** modernos y efectos de brillo
 - **Diseño responsivo** que se adapta a móviles, tablets y escritorio
@@ -15,14 +16,14 @@ Réplica del portafolio de desarrolladora Full Stack de Emma Watson.
 ### ✅ Secciones Completas
 
 1. **Navbar Fijo**
-   - Logo "EmmaWatson" con gradiente
+   - Logo "Esteban castro" con gradiente
    - Navegación: Home, About, Skills, Experience, Contact
    - Efecto scroll con cambio de estilo
    - Menú hamburguesa responsive para móviles
    - Highlight activo según sección visible
 
 2. **Hero Section**
-   - Presentación "Hi, I'm Emma Watson"
+   - Presentación "Hi, I'm Esteban Castro"
    - **Animación de texto escribiendo** con múltiples frases:
      - Full Stack Developer
      - UI/UX Designer
@@ -55,21 +56,20 @@ Réplica del portafolio de desarrolladora Full Stack de Emma Watson.
 5. **Experience Section**
    - Timeline vertical con indicadores circulares
    - 3 posiciones de trabajo:
-     - **Senior Frontend Developer** (2020 - Present) - TechCorp Inc.
-     - **Full Stack Developer** (2018 - 2020) - Digital Solutions LLC
-     - **Junior Developer** (2016 - 2018) - StartUp Ventures
+     - **Full Stack Developer** (2025 - 2026)
+     - **Junior Developer** (2024 - 2026)
    - Efecto hover con desplazamiento lateral
 
 6. **Contact Section**
    - 2 tarjetas de información:
-     - 📍 Location: San Francisco, California
-     - 📧 Email: emma.watson@example.com
+     - 📍 Location: C/ proyecto 8 esq/ principe de paz #7 Brisas del Este
+     - 📧 Email: estarling195@gmail.com
    - Enlaces sociales circulares con iconos:
-     - GitHub, LinkedIn, Twitter, Instagram
+     - GitHub, LinkedIn, Instagram
    - Efectos hover con elevación y gradiente
 
 7. **Footer**
-   - Copyright © 2024 Emma Watson
+   - Copyright © 2026 Esteban Castro
 
 ### ✅ Funcionalidades JavaScript
 
@@ -97,6 +97,7 @@ Simplemente abre el archivo `index.html` en cualquier navegador web moderno. No 
 ## 📱 Responsive Design
 
 El portafolio se adapta perfectamente a:
+
 - **Desktop**: Layout completo con múltiples columnas
 - **Tablet**: Grid adaptativo (2 columnas en algunas secciones)
 - **Mobile**: Single column con menú hamburguesa
