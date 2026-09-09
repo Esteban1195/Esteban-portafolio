@@ -1,6 +1,6 @@
 # Esteba Castro - Portfolio Web
 
-Réplica del portafolio de desarrolladora Full Stack de Emma Watson.
+Portafolio original de Esteban Castro.
 
 ## 🎨 Características Implementadas
 
