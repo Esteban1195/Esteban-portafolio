@@ -715,19 +715,25 @@
             opacity: 1;
             transform: translateY(0);
         }
+        .not-undeline {
+            text-decoration: none;
+        }
     </style>
 </head>
 <body>
     <!-- Navbar -->
     <nav class="navbar">
         <div class="nav-container">
-            <div class="logo">Esteban Castro</div>
+            <a href="#home" class="logo not-undeline">
+                <div class="logo ">Esteban Castro</div>
+            </a>
+            
+            
             <ul class="nav-links">
                 <li><a href="#home" class="active">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#skills">Skills</a></li>
                 <li><a href="#projects">Projects</a></li>
-                <li><a href="#experience">Experience</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
             <div class="menu-toggle">
@@ -930,27 +936,6 @@
                     <h3>Modern Portfolio</h3>
                     <p>Réplica funcional de interfaces modernas con animaciones fluidas y diseño responsivo.</p>
                 </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Experience Section -->
-    <section id="experience">
-        <div class="section-header reveal">
-            <h2>Work Experience</h2>
-            <p>My professional journey so far</p>
-        </div>
-            <div class="timeline-item reveal">
-                <h3>Full Stack Developer</h3>
-                <span class="timeline-period">2025 - 2026</span>
-                <span class="timeline-company">Digital Solutions LLC</span>
-                <p>Developed and maintained web applications for various clients, focusing on responsive design and performance optimization.</p>
-            </div>
-            <div class="timeline-item reveal">
-                <h3>Junior Developer</h3>
-                <span class="timeline-period">2024 - 2026</span>
-                <span class="timeline-company">StartUp Ventures</span>
-                <p>Started my career building basic websites and gradually took on more complex projects as I expanded my skill set.</p>
             </div>
         </div>
     </section>
